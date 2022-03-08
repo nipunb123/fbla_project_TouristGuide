@@ -1,0 +1,42 @@
+Welcome, before trying to run the executable file, you must install a couple libraries using PIP.
+
+Install tkinter using "pip install tk"
+Install PIL using "pip install Pillow"
+Install bs4 using "pip install beautifulsoup4"
+Install requests using "pip install requests"
+
+Also make sure to download all the image files and all the python files.
+Make sure all the files are located in the same folder.
+
+Functionality:
+	Page 1
+	-When the executable file is run, the user is greeted with an entry bar, a submit button, and an exit button.
+	-The user is prompted to enter a location, then when ready, they can hit the submit button to move on to the next page.
+	-The page will not advance if the user leaves the entry bar blank or tries to submit "Enter City".
+	-The user can only enter a location in Missouri and must spell the city correctly. 
+	-If the program does not detect a city in Missouri, or the program can not find sufficient attractions for the location, the program won't progress to the next page.
+	-The user can exit at any time by clicking the exit button.
+	-The user can hit the escape key at any time in order to exit fullscreen mode.
+
+	Page 2
+	-The user is greeted with a drop down menu with options for the type of attraction they are looking for at that location
+	-The user is prompted to select their preferred type of attraction.
+	-The user can select one option and then hit the submit button.
+	-If the user tries to submit before selecting an option, nothing will happen.
+	-The user can exit at any time by clicking the exit button.
+	-The user can hit the escape key at any time in order to exit fullscreen mode.
+
+	Page 3
+	-The program provides the user with a list of attractions in the location they selected.
+	-All attractions are within a 25 mile radius of the location they selected.
+	-The user can exit at any time by clicking the exit button.
+	-The user can hit the escape key at any time in order to exit fullscreen mode.
+
+How does it work?
+	Our program uses a web scraping tool called Beautiful Soup in order to scrape data from websites to provide the user with attractions near them and the type of attraction.
+
+
+
+
+
+
