@@ -1,6 +1,7 @@
 Welcome, before trying to run the executable file, you must install a couple libraries using PIP.
 The user must also have python installed along with pyinstaller in order to run pip install commands in terminal.
 
+Install Python from https://www.python.org/downloads/, and make sure to check/click pyinstaller in the setup application.
 Install tkinter using "pip install tk"
 Install PIL using "pip install Pillow"
 Install bs4 using "pip install beautifulsoup4"
