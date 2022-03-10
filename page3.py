@@ -1,4 +1,4 @@
-#Made by: Nipun Bhatnagar, Corey Warden, and Ivan Ou Yang - Timberland High School
+#Made by: Nipun Bhatnagar and Corey Warden - Timberland High School
  
 #Importing all modules and libraries required to run the program.
 #tkinter used to display information on a graphical user interface(GUI).
