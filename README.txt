@@ -4,4 +4,4 @@ This program was made in Python and then converted to an executable file using p
 Since the program was created and converted on a Windows 10, 64 bit computer, it will only work on such computers.
 The main executable file, TouristGuide.exe, is located in the main folder.
 
-*Please see documentation.txt for prerequisite libraries and modules for the program*
+*Please see documentation.txt for program workflow and troubleshooting help*
