@@ -1,6 +1,6 @@
-Welcome, before trying to run the executable file, you must install a couple libraries using PIP.
-The user must also have python installed along with pyinstaller in order to run pip install commands in terminal.
+Welcome, here we will show the functionality of our code and how to troubleshoot if you run into an error.
 
+Although the game should automatically run without errors, if you are prompted with errors, try installing these:
 Install Python from https://www.python.org/downloads/, and make sure to check/click pyinstaller in the setup application.
 Install tkinter using "pip install tk"
 Install PIL using "pip install Pillow"
